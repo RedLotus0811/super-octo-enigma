@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalculatorChallenge/AreaCalculatorChallenge.iml" filepath="$PROJECT_DIR$/AreaCalculatorChallenge/AreaCalculatorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitSum/DigitSum.iml" filepath="$PROJECT_DIR$/DigitSum/DigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenDigitSum/EvenDigitSum.iml" filepath="$PROJECT_DIR$/EvenDigitSum/EvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseOne/ExerciseOne.iml" filepath="$PROJECT_DIR$/ExerciseOne/ExerciseOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factors/Factors.iml" filepath="$PROJECT_DIR$/Factors/Factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstLastDigitSum/FirstLastDigitSum.iml" filepath="$PROJECT_DIR$/FirstLastDigitSum/FirstLastDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learn_Java.iml" filepath="$PROJECT_DIR$/.idea/Learn_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinutesToYearsandDaysCalculator/MinutesToYearsandDaysCalculator.iml" filepath="$PROJECT_DIR$/MinutesToYearsandDaysCalculator/MinutesToYearsandDaysCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberPalindrome/NumberPalindrome.iml" filepath="$PROJECT_DIR$/NumberPalindrome/NumberPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutes/SecondsAndMinutes.iml" filepath="$PROJECT_DIR$/SecondsAndMinutes/SecondsAndMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedDigit/SharedDigit.iml" filepath="$PROJECT_DIR$/SharedDigit/SharedDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOddChallenge/SumOddChallenge.iml" filepath="$PROJECT_DIR$/SumOddChallenge/SumOddChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" filepath="$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While/While.iml" filepath="$PROJECT_DIR$/While/While.iml" />
+    </modules>
+  </component>
+</project>
